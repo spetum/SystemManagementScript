@@ -1,6 +1,5 @@
 #!/bin/bash
 
-#LCLANG='ko_KR.UTF-8'
 LC_LANG=$LANG
 date +%p
 
