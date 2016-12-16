@@ -1,11 +1,11 @@
 #!/bin/bash
 
-LCLANG='ko_KR.UTF-8'
-#LCLANG=LC_LANG
+#LCLANG='ko_KR.UTF-8'
+LC_LANG=$LANG
 date +%p
 
-export LC_LANG=C
+export LANG=C
 date +%p
 
-export LC_LANG=LCLANG
+export LC_LANG=$LC_LANG
 
