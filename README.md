@@ -7,7 +7,9 @@ Cpu Status
 core speed
 
 and so on
-
+--------
+Update List
+--------
 RBPi3Nr0001-cafebear_nate.sh
 
 RBPi3Nr0003-hojeonglee_gmail.sh
